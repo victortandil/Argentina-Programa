@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  width: 70vw;
+  height: 200px;
+  border: 1px solid black;
+}
+
+.profile_foto {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  position: relative;
+  left: 35px;
+  top: -50px;
+  border-radius: 50%;
+  border: 5px solid white;
+}

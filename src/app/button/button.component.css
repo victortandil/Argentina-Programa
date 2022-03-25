@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  background-color: white;
+  color: black;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 100px;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+}
